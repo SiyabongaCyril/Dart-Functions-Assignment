@@ -1,0 +1,1 @@
+This repository contains an assignment for Dart programming focused on learning Dart's basic functions. 
